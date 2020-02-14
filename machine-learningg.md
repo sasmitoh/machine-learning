@@ -13,11 +13,7 @@ suatu bidang keilmuan yang berisi tentang
 pembelajaran komputer/mesin untuk menjadi
 cerdas.
 
-
-
-
-
-
+![type](https://github.com/sasmitoh/machine-learning/blob/master/foto/type_machine_learning.PNG)
 
 ## Traditional Programming VS Machine Learning
 ![ml vs tra](https://github.com/sasmitoh/machine-learning/blob/master/foto/ml-tra.jpg)
