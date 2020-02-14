@@ -16,5 +16,5 @@
 - [ ] Anaconda
 
 ## Introduction
-- [x] Machine Learning [Pembahasan](href:https://rapidminer.com/get-started/)
-- [x] Cara Install RapidMiner [Tutorial](href:https://rapidminer.com/get-started/)
+- [x] [Machine Learning](https://rapidminer.com/get-started/)
+- [x] [Cara Install RapidMiner](https://rapidminer.com/get-started/)
