@@ -19,4 +19,5 @@ jika proses register selesai maka anda akan mendapatkan notif dari official Rapi
 
 
 - [x] Pengenalan Machine Learning [>>>](https://github.com/sasmitoh/machine-learning/blob/master/machine-learningg.md)
+- [x] Back to [<<<](https://github.com/sasmitoh/machine-learning)
 
