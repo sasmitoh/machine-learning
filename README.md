@@ -12,9 +12,9 @@
 - [ ] NN
 
 ## TOOL
-- [x] Machine Learning
+- [x] RapidMiner
 - [ ] Anaconda
 
 ## Introduction
-- [x] [ Machine Learning ](href:https://rapidminer.com/get-started/)
-- [x] [ Cara Install RapidMiner ](href:https://rapidminer.com/get-started/)
+- [x] Machine Learning [Pembahasan](href:https://rapidminer.com/get-started/)
+- [x] Cara Install RapidMiner [Tutorial](href:https://rapidminer.com/get-started/)
