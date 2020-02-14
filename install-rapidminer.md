@@ -1,4 +1,4 @@
-## RapidMinner
+## RapidMiner
 RapidMiner adalah salah satu software untuk pengolahan data mining. Pekerjaan yang dilakukan oleh RapidMiner text mining adalah berkisar dengan analisis teks, mengekstrak pola-pola dari data set yang besar dan mengkombinasikannya dengan metode statistika, kecerdasan buatan, dan database. Tujuan dari analisis teks ini adalah untuk mendapatkan informasi bermutu tertinggi dari teks yang diolah.
 
 RapidMiner menyediakan prosedur data mining dan machine learning, di dalamnya termasuk: ETL (extraction, transformation, loading), data preprocessing, visualisasi, modelling dan evaluasi. Proses data mining tersusun atas operator-operator yang nestable, dideskripsikan dengan XML, dan dibuat dengan GUI. Penyajiannya dituliskan dalam bahasa pemrograman Java.
@@ -18,5 +18,5 @@ jika proses register selesai maka anda akan mendapatkan notif dari official Rapi
 ![Gambar hasil](https://github.com/sasmitoh/machine-learning/blob/master/foto/4.png)
 
 
-[Pengenalan Machine Learning](https://github.com/sasmitoh/machine-learning/blob/master/machine-learningg.md)
+- [x] Pengenalan Machine Learning [>>>](https://github.com/sasmitoh/machine-learning/blob/master/machine-learningg.md)
 
