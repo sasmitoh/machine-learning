@@ -8,8 +8,8 @@
 ## Target Materi
 - [x] Naive Bayes
 - [x] Decision Tree
-- [ ] K-NN
-- [ ] NN
+- [x] K-NN
+- [x] NN
 
 ## TOOL
 - [x] RapidMiner
