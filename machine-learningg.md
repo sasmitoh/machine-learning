@@ -32,4 +32,4 @@ Mendeteksi penipuan, memprediksi pola click-thru, iklan bertarget, dll.
 ![ml vs tra](https://github.com/sasmitoh/machine-learning/blob/master/foto/algoritma.jpg)
 
 - [x] Cara Install RapidMiner [>>>](https://github.com/sasmitoh/machine-learning/blob/master/install-rapidminer.md)
-- [x] back to [<<<](https://github.com/sasmitoh/machine-learning/blob/master/README.md)
+- [x] back to [<<<](https://github.com/sasmitoh/machine-learning)
