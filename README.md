@@ -16,5 +16,5 @@
 - [ ] Anaconda
 
 ## Introduction
-- [x] [Machine Learning](https://rapidminer.com/get-started/)
-- [x] [Cara Install RapidMiner](https://rapidminer.com/get-started/)
+- [x] Pengenalan Machine Learning [>>>](https://github.com/sasmitoh/machine-learning/blob/master/machine-learningg.md)
+- [x] Cara Install RapidMiner [>>>](https://github.com/sasmitoh/machine-learning/blob/master/install-rapidminer.md)
