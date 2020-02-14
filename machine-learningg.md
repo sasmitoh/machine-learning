@@ -30,3 +30,5 @@ Mendeteksi penipuan, memprediksi pola click-thru, iklan bertarget, dll.
 
 ### Algoritma Machine Learning
 ![ml vs tra](https://github.com/sasmitoh/machine-learning/blob/master/foto/algoritma.jpg)
+
+- [x] back to [<<<](https://github.com/sasmitoh/machine-learning/blob/master/README.md)
