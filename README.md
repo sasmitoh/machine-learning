@@ -14,6 +14,11 @@
 ## TOOL
 - [x] RapidMiner
 - [ ] Anaconda
+  - [ ] Python 3.7
+  - [ ] Jupyter
+  - [ ] Tensor Flow
+  - [ ] Keras
+  - [ ] Scikit Learn
 
 ## Introduction
 - [x] Pengenalan Machine Learning [>>>](https://github.com/sasmitoh/machine-learning/blob/master/machine-learningg.md)
