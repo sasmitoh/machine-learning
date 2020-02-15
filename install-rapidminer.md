@@ -17,7 +17,8 @@ RapidMiner menyediakan prosedur data mining dan machine learning, di dalamnya te
 jika proses register selesai maka anda akan mendapatkan notif dari official RapidMiner di email anda, jika sudah mendapatkan serial number silakan login RapidMiner anda dan hasilnya seperti berikut..
 ![Gambar hasil](https://github.com/sasmitoh/machine-learning/blob/master/foto/4.png)
 
-
+- [x] Documentasi RapidMiner Studio [>>>](https://docs.rapidminer.com/latest/studio/installation/)
+- [x] Manual RapidMiner Studio [>>>](https://docs.rapidminer.com/downloads/RapidMiner-v6-user-manual.pdf)
 - [x] Pengenalan Machine Learning [>>>](https://github.com/sasmitoh/machine-learning/blob/master/machine-learningg.md)
 - [x] Back to [<<<](https://github.com/sasmitoh/machine-learning)
 
